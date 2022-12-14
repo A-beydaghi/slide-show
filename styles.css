@@ -54,15 +54,13 @@
 
 .prev, .next {
 	position: absolute;
-	top: 50%;
-	background-color: #0009;
-	color: #fff;
-	padding: 16px;
-	margin-top: -32px;
+	color: #aaa;
+	padding: 8px;
+	margin: 0 190px 0 190px;
 }
 
 .prev:active, .next:active {
-	background-color: #000;
+	color: #555;
 }
 
 .prev {
